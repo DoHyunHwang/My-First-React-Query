@@ -1,2 +1,2 @@
 # My First React Query
- React Query 개념함습
+ React Query 개념학습
