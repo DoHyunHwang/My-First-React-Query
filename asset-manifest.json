@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/first-react-query/static/css/main.45dc8cf4.css",
-    "main.js": "/first-react-query/static/js/main.87fb8f1b.js",
-    "static/js/787.552da4d3.chunk.js": "/first-react-query/static/js/787.552da4d3.chunk.js",
-    "index.html": "/first-react-query/index.html",
-    "main.45dc8cf4.css.map": "/first-react-query/static/css/main.45dc8cf4.css.map",
-    "main.87fb8f1b.js.map": "/first-react-query/static/js/main.87fb8f1b.js.map",
-    "787.552da4d3.chunk.js.map": "/first-react-query/static/js/787.552da4d3.chunk.js.map"
+    "main.css": "/My-First-React-Query/static/css/main.45dc8cf4.css",
+    "main.js": "/My-First-React-Query/static/js/main.4aea3a85.js",
+    "static/js/787.552da4d3.chunk.js": "/My-First-React-Query/static/js/787.552da4d3.chunk.js",
+    "index.html": "/My-First-React-Query/index.html",
+    "main.45dc8cf4.css.map": "/My-First-React-Query/static/css/main.45dc8cf4.css.map",
+    "main.4aea3a85.js.map": "/My-First-React-Query/static/js/main.4aea3a85.js.map",
+    "787.552da4d3.chunk.js.map": "/My-First-React-Query/static/js/787.552da4d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45dc8cf4.css",
-    "static/js/main.87fb8f1b.js"
+    "static/js/main.4aea3a85.js"
   ]
 }
